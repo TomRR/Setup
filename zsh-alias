@@ -1,0 +1,28 @@
+alias pros='/mnt/c/Users/Tom/Documents/Projects'
+alias tester='/mnt/c/Users/Tom/Documents/Projects/Tester'
+alias learn='/mnt/c/Users/Tom/Documents/Projects/Learing'
+
+# open VS Code
+alias code='code .'
+
+# git commands
+alias add='git add .'
+alias gs='git status'
+alias gc='git clone'
+alias checkb='git checkout -b'
+alias checkm='git checkout main'
+alias checkd='git checkout develop'
+alias check='git checkout'
+alias com='git commit -m'
+alias push='git push origin'
+alias pushd='git push origin develop'
+alias pushm='git push origin main'
+alias push='git push origin'
+alias branch='git branch'
+
+# node
+runD='npm run deveop'
+nin='npm install --save'
+
+#
+alias t='tree'
