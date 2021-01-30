@@ -101,10 +101,25 @@ or
 ssh-add ~/.ssh/id_rsa
 ```
 
-## Adding a new SSH key
+### Adding a new SSH key
 ```
 cat ~/.ssh/id_ed25519.pub
 or
 cat ~/.ssh/id_rsa.pub
 ```
 And add the key to Github, Gitlab, ...
+
+### Gatsby
+```
+sudo npm install -g gatsby-cli
+```
+[Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-zero/)
+
+### Node
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo apt-get install -y npm
+```
+
