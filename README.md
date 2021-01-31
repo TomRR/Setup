@@ -137,7 +137,7 @@ Pop Store
 sudo apt install gnome-tweaks
 ```
 search for **"tweaks"**
-![window_titlebars](https://static.techhut.tv/img/archive/5-things-popos/2-window_titlebars.png)
+[https://static.techhut.tv/img/archive/5-things-popos/2-window_titlebars.png](https://static.techhut.tv/img/archive/5-things-popos/2-window_titlebars.png)
 ## Install Dash to Dock
 ```
 https://extensions.gnome.org/extension/307/dash-to-dock/
