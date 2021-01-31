@@ -123,3 +123,24 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y npm
 ```
 
+# Pop OS
+## Update and Upgrade
+```
+sudo apt update
+sudo apt full-upgrade
+```
+OR
+Pop Store
+
+## Enable Minimize and Maximize Buttons
+```
+sudo apt install gnome-tweaks
+```
+search for **"tweaks"**
+![window_titlebars](https://static.techhut.tv/img/archive/5-things-popos/2-window_titlebars.png)
+## Install Dash to Dock
+```
+https://extensions.gnome.org/extension/307/dash-to-dock/
+```
+![gnome-exentions](https://static.techhut.tv/img/archive/5-things-popos/3-gnome-exentions.png)
+![dash-to-docker](https://static.techhut.tv/img/archive/5-things-popos/4-dash-to-dock.png)
