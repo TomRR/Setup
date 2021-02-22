@@ -9,6 +9,10 @@ install the font you want and set it for you terminal
 sudo apt install zsh -y
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+Or
+```
+sudo pacman -S zsh
+```
 ### set ZSH as Default
 Open
 ```
